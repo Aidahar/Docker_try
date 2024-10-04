@@ -1,0 +1,7 @@
+verion: '3'
+
+services:
+  cont1:
+    build: ./server/
+  cont2:
+    
